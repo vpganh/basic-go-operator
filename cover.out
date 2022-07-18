@@ -1,0 +1,27 @@
+mode: set
+github.com/example/memcached-operator/controllers/memcached_controller.go:59.101,65.16 4 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:79.2,81.42 3 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:98.2,99.34 2 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:114.2,119.57 3 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:123.2,126.58 2 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:135.2,135.27 1 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:65.16,66.29 1 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:74.3,75.28 2 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:66.29,72.4 2 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:81.42,86.17 4 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:91.3,91.41 1 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:86.17,89.4 2 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:92.8,92.23 1 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:92.23,95.3 2 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:99.34,102.17 3 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:109.3,109.53 1 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:102.17,105.4 2 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:119.57,122.3 2 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:126.58,129.17 3 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:129.17,132.4 2 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:139.101,203.2 5 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:207.56,209.2 1 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:212.46,214.27 2 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:217.2,217.17 1 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:214.27,216.3 1 0
+github.com/example/memcached-operator/controllers/memcached_controller.go:221.72,226.2 1 0
